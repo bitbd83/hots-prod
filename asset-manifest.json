@@ -2,7 +2,7 @@
   "files": {
     "static/js/0.195a52c3.chunk.js": "https://hots.cheeseswap.app/static/js/0.195a52c3.chunk.js",
     "main.css": "https://hots.cheeseswap.app/static/css/main.2959e852.chunk.css",
-    "main.js": "https://hots.cheeseswap.app/static/js/main.c9084a6a.chunk.js",
+    "main.js": "https://hots.cheeseswap.app/static/js/main.6e75c1e7.chunk.js",
     "runtime-main.js": "https://hots.cheeseswap.app/static/js/runtime-main.0f78786a.js",
     "static/js/3.4d883d1c.chunk.js": "https://hots.cheeseswap.app/static/js/3.4d883d1c.chunk.js",
     "static/js/4.02f196eb.chunk.js": "https://hots.cheeseswap.app/static/js/4.02f196eb.chunk.js",
@@ -13,7 +13,7 @@
     "static/js/9.a59911fd.chunk.js": "https://hots.cheeseswap.app/static/js/9.a59911fd.chunk.js",
     "static/js/10.cb413d52.chunk.js": "https://hots.cheeseswap.app/static/js/10.cb413d52.chunk.js",
     "index.html": "https://hots.cheeseswap.app/index.html",
-    "precache-manifest.ece9b90a888babc4fabb70547fdfb8f0.js": "https://hots.cheeseswap.app/precache-manifest.ece9b90a888babc4fabb70547fdfb8f0.js",
+    "precache-manifest.a5e499adbbfa23d4490a1e9d6a1472bf.js": "https://hots.cheeseswap.app/precache-manifest.a5e499adbbfa23d4490a1e9d6a1472bf.js",
     "service-worker.js": "https://hots.cheeseswap.app/service-worker.js",
     "static/js/3.4d883d1c.chunk.js.LICENSE.txt": "https://hots.cheeseswap.app/static/js/3.4d883d1c.chunk.js.LICENSE.txt",
     "static/js/5.80c068f5.chunk.js.LICENSE.txt": "https://hots.cheeseswap.app/static/js/5.80c068f5.chunk.js.LICENSE.txt",
@@ -23,7 +23,7 @@
     "static/media/hotdog-van.svg": "https://hots.cheeseswap.app/static/media/hotdog-van.562acd6f.svg",
     "static/media/hots-supply.svg": "https://hots.cheeseswap.app/static/media/hots-supply.42ec72d0.svg",
     "static/media/hots.svg": "https://hots.cheeseswap.app/static/media/hots.915f7a38.svg",
-    "static/media/logo.svg": "https://hots.cheeseswap.app/static/media/logo.c1ee0222.svg",
+    "static/media/logo.svg": "https://hots.cheeseswap.app/static/media/logo.42ec72d0.svg",
     "static/media/metamask-fox.svg": "https://hots.cheeseswap.app/static/media/metamask-fox.c06f3a3e.svg",
     "static/media/wallet-connect.svg": "https://hots.cheeseswap.app/static/media/wallet-connect.37f2bc6e.svg"
   },
@@ -31,6 +31,6 @@
     "static/js/runtime-main.0f78786a.js",
     "static/js/3.4d883d1c.chunk.js",
     "static/css/main.2959e852.chunk.css",
-    "static/js/main.c9084a6a.chunk.js"
+    "static/js/main.6e75c1e7.chunk.js"
   ]
 }
